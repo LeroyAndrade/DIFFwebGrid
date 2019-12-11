@@ -1,0 +1,5 @@
+Groen: #b5ce33
+Smalle top header boven nav bg: #f8f8f8
+En zijn border bottom van 1px: #f1f1f1
+Footer donker grijs: #222
+Bottom footer = #000
